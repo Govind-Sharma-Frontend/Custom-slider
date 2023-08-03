@@ -1,0 +1,9 @@
+.slick-prev:before {
+    content: '' !important;
+}
+.slick-next:before {
+    content: '' !important;
+}
+.slick-next{
+    right: -21px !important;
+}
